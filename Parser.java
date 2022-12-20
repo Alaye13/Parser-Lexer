@@ -2,8 +2,6 @@ package unit;
 
 /***
  * Ifenna Ekwenem
- * Integrity Statement
- * CS 310 Mr Reaser
  */
 import java.util.Queue;
 import java.util.HashMap;
