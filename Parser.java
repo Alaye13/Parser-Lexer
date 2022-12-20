@@ -2,7 +2,6 @@ package unit;
 
 /***
  * Ifenna Ekwenem
- * Collin Lloyd
  * Integrity Statement
  * CS 310 Mr Reaser
  */
