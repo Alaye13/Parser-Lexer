@@ -12,8 +12,7 @@ import framework.TokenName;
 
 public class Lexer {
 	public static void main(String[] args) {
-		/**
-		 * Issue with code in this particular segment due to impromper testing
+		/** Test file
 		 */
 		String sentence = "let P = 1, let Q = 1, let R = 1, eval P ^ Q ^ R?";
 		Queue<Token> tokens = new Lexer().tokenize(sentence);
